@@ -1,0 +1,11 @@
+body{
+	background: #bbb;
+	div{
+		margin: 2rem;
+		padding: 1rem;
+		boarder: 1px solid red;
+		&.active {
+
+		}
+	}
+}
